@@ -10,7 +10,7 @@ I'm actively looking for internships or entry-level roles where I can grow, cont
 
 ---
 
-### 🛠 Skills
+### Skills
 - Programming: Python, SQL, C, Swift
 - Tools & Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, NLTK, TensorFlow
 - Others: Git, Google Colab, JupyterLab, Excel
@@ -26,4 +26,4 @@ I'm actively looking for internships or entry-level roles where I can grow, cont
 
 **Let’s Connect!**  
 [LinkedIn](https://www.linkedin.com/in/ugurmericranda/)  
-✉️ [ugurmericranda@gmail.com](mailto:ugurmericranda@gmail.com)
+[ugurmericranda@gmail.com](mailto:ugurmericranda@gmail.com)
